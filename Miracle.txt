@@ -1,0 +1,25 @@
+c
+title head and body
+b
+external
+cascading style sheet
+blue color
+absolute unit and relative unit
+absolute(px,cm) relative(em, rem)
+a
+d
+5
+static 2) relative 3)fixed 4)absolute 5)sticky
+black
+
+time new Roman
+it controls what happens when no value or attribute is specified
+id selector 2) class selector 3) tag selector
+row
+inherit gets the properities from the parents element. while initialis takes the default properities of the browser
+git is a dev tool used for source code management
+git push
+sort the selector specificity 2)sort by order specified 3)inline styles
+justify content 2) align-items 3)flex-direction 4)align-content 5)display
+60%
+to gain more knowlege and to be able to help others and solve more problems in I.T
