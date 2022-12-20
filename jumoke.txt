@@ -1,0 +1,25 @@
+3
+Html, head, and body
+3
+external styling
+cascading styling sheet
+blue
+Absolute and relative unit
+i) Absolute:px,% ii) relative: rem and em
+Markup Language
+Jquery
+5
+Absolute, Static, Relative, Sticky, and Fixed
+black
+
+Times New Roman
+Inherit implication on the universal selector allows the whole code to take the values of the universal element
+id, class, and elements
+Horizontal direction
+Inherit means to take the values of the parent element, while initial means to take the default value an element 
+Git is version control system that allows its users to manage and keep track of codes.
+Git init
+
+Justify content, align-content, align-item, justify-item, flex-direction
+70%
+To acquire a relevant tech skill and be a problem solver
