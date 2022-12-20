@@ -1,0 +1,25 @@
+a.[3]
+head, body, and html element
+3
+external styling
+cascading styling sheet
+blue
+relative unit and absolute unit
+relative : em and rem , absolute: pixels and centimeter
+a Mark up Language
+d Bulma
+five types
+absolute,sticky,relative,static,fixed
+black
+
+Times new Roman
+it implies that all the element in the container/body/paragragh takes the property of its parent element
+element selector,i.d selector and class selector
+row/horizontal
+inherit implies taking the set property of the parent element while the initial implies the default property
+git is the most commonly used version control system that tracks the changes you make to files also known as global information tracker. it is a system built to enable single use and  collaboration of developers to track, store and commumicate their projects 
+git init
+selectors specificity , order , source
+flex-direction, align-content, align-items, flex-flow, flex-wrap, justify-content
+85%
+i  chose to learn the front-end web programming because of my interest for programming as a whole and the endless posibilities that can be attained with it and i had to begin somewhere that brought me to front-end
